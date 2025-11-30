@@ -2,6 +2,8 @@
 
 A Cloudinary-like serverless video delivery platform using Terabox as storage backend, deployable on Vercel's free tier.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JuanIPlanes/cloudy)
+
 ## Features
 
 - 🎬 **Video Upload**: Upload videos to Terabox (1TB free storage)
